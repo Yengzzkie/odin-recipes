@@ -2,6 +2,8 @@
 # Overview
 This Recipe Website is a simple, user-friendly platform created using HTML and CSS to help you explore different recipes from different cultures.
 
+Live Demo: https://yengzzkie.github.io/odin-recipes/
+
 # How It's Made
 Tech used: HTML, CSS
 
